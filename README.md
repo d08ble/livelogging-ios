@@ -6,7 +6,7 @@ Usage:
 1. Add livelogging sources to your project
 2. Add SocketRocket framework
 
-```
+```cpp
 #include "livelogging.h"
 
 liveLogging = createLiveLogging();
