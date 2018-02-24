@@ -1,6 +1,6 @@
 # LiveLogging for iOS
 
-Structured live logging for iOS. Use LiveComment to 
+Structured live logging for iOS. Use LiveComment for view logs.
 
 Usage:
 1. Add livelogging sources to your project
